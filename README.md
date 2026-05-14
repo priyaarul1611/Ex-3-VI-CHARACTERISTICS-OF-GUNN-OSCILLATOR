@@ -15,8 +15,6 @@ Gunn power supply, Gunn oscillator, PIN modulator, Isolator, Frequency Meter, Va
 The Gunn oscillator is base on negative differential conductivity effect in bulk semi- conductors. Gunn diode has two conduction bands separated by an energy gap (greater than thermal agitation energies). When an electron is moved to the satellite energy band, it will have negative differentialmobility. This produces the negative resistance required for the oscillations. In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this case the oscillationfrequency is determined by cavity dimension than by diode itself. Although Gunn oscillator can be amplitude-modulated with the bias voltage, separate PIN modulator through is used in this experiment. A square wave modulating signal is applied through the modulator on to the microwave carrier signal.
 
 
-
-
 ## Procedure:
 
 Set the components and equipments as shown in figure above.
@@ -48,12 +46,13 @@ Note: After tuning the Gunn source, the procedure for VSWR & Impedance measureme
 
 ## C.Analysis of Results: (Write your own)
 
-(Include sample calculations/Display/plot/typical graph)
+The V- characteristics showed a distinct negative resistance region, confirming Gunn effect operation, and the measured frequency and power output increased with appropriate biasing, validating the diode’s microwave generation behavior.
 
 ## D.Conclusions: (Write your Own)
-
+The experiment confirmed Gunn diode operation through its negative resistance region and showed that proper biasing enables stable microwave frequency and power generation
 ## Precautions:
 
 • Check the connections before switching on the kit. • Connections should be done properly. • Observation should be taken properly.
 
 ## Result:
+The I–V characteristics of the Gunn diode were successfully plotted, showing a clear negative resistance region. The depth of modulation of the PIN diode was calculated from the difference in attenuation readings, confirming proper amplitude modulation of the microwave signal.
